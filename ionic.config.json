@@ -1,0 +1,8 @@
+{
+  "name": "LionProject",
+  "app_id": "8fbc0426",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
